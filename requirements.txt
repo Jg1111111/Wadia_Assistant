@@ -1,4 +1,2 @@
 streamlit==0.87.0
 speechrecognition==3.8.1
-pyttsx3==2.90
-pywin32==301
